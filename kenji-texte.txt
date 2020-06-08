@@ -1,4 +1,4 @@
-kenji
+Cette phrase devient la nouvelle premiere ligne du document et elle devras le rester
 Test Git premiere branche
-kenji-texte.txt
-test git création deuxieme branche
+kenji test git création deuxieme branche
+Nguyen test git création troisieme branche
